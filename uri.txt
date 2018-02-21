@@ -1,0 +1,1 @@
+mongodb://heroku_r3c3wn10:3qaaaj2lt811dg6tcf0pnfqbg0@ds041678.mlab.com:41678/heroku_r3c3wn10
